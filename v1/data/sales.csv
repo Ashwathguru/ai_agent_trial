@@ -1,0 +1,11 @@
+order_id,customer_name,region,product,quantity,unit_price,sale_date
+1001,Alice,North,Laptop,2,750.00,2024-11-10
+1002,Bob,West,Smartphone,5,300.00,2024-11-11
+1003,Charlie,East,Tablet,3,400.00,2024-11-12
+1004,Diana,South,Laptop,1,770.00,2024-11-13
+1005,Evan,North,Smartwatch,7,150.00,2024-11-14
+1006,Faith,West,Monitor,2,200.00,2024-11-15
+1007,George,East,Keyboard,4,50.00,2024-11-16
+1008,Helen,South,Mouse,10,25.00,2024-11-17
+1009,Ian,North,Tablet,1,410.00,2024-11-18
+1010,Judy,West,Smartphone,6,320.00,2024-11-19

@@ -1,0 +1,5 @@
+{
+    "inventory_query": "What is the inventory level of {product} in {location}?",
+    "sales_report": "Show sales for {period} broken down by {dimension}.",
+    "user_growth": "How many new users joined from {region} in {month}?"
+  }
