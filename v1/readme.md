@@ -3,7 +3,6 @@ To run on local,
 Install dependencies from requirement.txt
 
 create a .env file with the following params: 
-# This file contains environment variables for the project.
 SAP_BASE_URL = "https://dummyjson.com"
 GCP_PROJECT_ID = "free-simulated-project"
 TABLEAU_SITE_ID = "public-site"
